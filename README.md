@@ -1,5 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Oussama — Building AI That Makes Sense
-
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Oussama
 
 
 **AI Engineering Student** <img src="https://cdn-icons-png.flaticon.com/512/3976/3976625.png" width="20px"> | **ENSIAS STUDENT** <img src="https://cdn-icons-png.flaticon.com/512/2917/2917995.png" width="20px"> | **Robotics Enthusiast** <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="20px">
