@@ -65,26 +65,6 @@ graph LR
 ---
 
 
-
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/2920/2920349.png" width="25px"> Currently Exploring
-
-```
-🔭 Active Research Areas:
-  ├─ Explainable AI in production systems
-  ├─ Feature engineering methodologies
-  ├─ AI-driven robotic perception
-  └─ Human-AI interaction design
-
-🌱 Learning:
-  ├─ Advanced control systems
-  ├─ Computer vision for robotics
-  └─ MLOps best practices
-```
-
----
-
 ## <img src="https://cdn-icons-png.flaticon.com/512/2965/2965306.png" width="25px"> Let's Connect
 
 <div align="center">
