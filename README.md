@@ -39,27 +39,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/3976/3976625.png" width="25px"> The 5-Year Vision
-
-```mermaid
-graph LR
-    A[Now: AI Student] --> B[Next: Applied AI Engineer]
-    B --> C[Future: AI × Robotics Specialist]
-    C --> D[Goal: Systems Others Trust]
-    
-    style A fill:#1a1a2e
-    style B fill:#16213e
-    style C fill:#0f3460
-    style D fill:#533483
-```
-
-**I'm building toward becoming an engineer who:**
-- <img src="https://cdn-icons-png.flaticon.com/512/5290/5290058.png" width="15px"> Designs end-to-end AI systems
-- <img src="https://cdn-icons-png.flaticon.com/512/5290/5290058.png" width="15px"> Understands real-world constraints
-- <img src="https://cdn-icons-png.flaticon.com/512/5290/5290058.png" width="15px"> Bridges AI ↔️ Robotics
-- <img src="https://cdn-icons-png.flaticon.com/512/5290/5290058.png" width="15px"> Explains decisions to anyone
 
 ---
 
