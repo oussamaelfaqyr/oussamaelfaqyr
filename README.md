@@ -52,19 +52,5 @@
 
 **Open to:** Collaborations  • AI Engineering Opportunities
 
-</div>
-
----
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────┐
-│  "Good AI engineering isn't about using every tool  │
-│   It's about choosing the right one for the job."   │
-└─────────────────────────────────────────────────────┘
-```
-
-⭐ If my approach resonates with you, star some repos!
 
 </div>
